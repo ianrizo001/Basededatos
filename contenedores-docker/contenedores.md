@@ -52,6 +52,12 @@ docker volume create v-postgresg1
 docker run -d --name Server-PostgresG1 -p 5455:5432 -e POSTGRES_PASSWORD=123456 -v v-postgresg1:/var/lib/postgresql/data bbb885
 ```
 
+### Contenedor de SQLserver con volumen
+```
+docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=P@ssw@rd" -p 1450:1433 --name SQLServerG1 -u0 -d -v v-sqlserverg1/var/opt/mssql/data/ e07b9
+``` 
+
+
 ## Comando Docker
 
 | Comando | Descripción |
