@@ -57,9 +57,9 @@ Se debe realizar lo siguente:
 -Determinar la cardinalidad
 -Determinar la participación
 
-## RESULTADO MODELO E-R
-
+### RESULTADO MODELO E-R
 ![Hospital](../img/E-R/Ejercicio2BaseDeDatos.jpg)
+
 
 3. Ejercicio 3
 
@@ -84,6 +84,10 @@ Una escuela administra alumnos y materias.
 3.Puede existir una materia sin alumnos inscritos.
 4.Todos alumno debe estar inscrito en al menos una materia.
 5.De cada inscripcion se debe almacenar: Fecha de inscripcion y calificacion final.
+
+### RESULTADO MODELO E-R
+![Hospital](../img/E-R/Ejercicio3BaseDeDatos.jpg)
+
 
 
 
@@ -119,17 +123,5 @@ En una empresa encargada de realizar venta de productos:
 9.El detalle almacena cantidad y precio de venta
 
 
-Elabora un programa que gestione los empleados de una empresa, todos comparten caracteristicas comunes pero cada tipo tiene funciones especificas,
-Se tiene una clase empleado que es la clase padre o clase base, 
-la cual tiene como atributos: nombre, id, salario base.
-los metodos: mostrar informacion y calcular salario.
-
-Tambien se tiene una clase desarrollador la cual tiene un atributo llamado: lenguaje que domina y de tipo int horas extra.
-Sus metodos son: calcular salario , mostrar informacion y un metodo llamado actividades.
-
-Tambien debe de incluir una clase gerente la cual tiene un atributo llamado: personas a cargo de tipo entero y otro atributo de tipo double llamado bono gerencial.
-sus metodos son: calcular salario, mostrar informacion y un metodo llamado convocar reunion.
-
-La clase main para elegir el tipo de empleado.
-
-Adicional a lo anterior agrega una nueva clase llamada diseñador que herede de empleado, tenga un atributo llamado herramienta preferida, sobreescriba el metodo calcular salario al cual se le debe sumar 2500 de bono ademas de un metodo llamado diseñar interface en el que tu puedes diseñarlo como mejor convenga agregar el tipo de empleado a la clase main.
+### RESULTADO MODELO E-R
+![Hospital](../img/E-R/Ejercicio4BaseDeDatos.jpg)

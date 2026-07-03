@@ -121,4 +121,4 @@ Almacena informacion de los estudiantes
 | RN-06 | La calificacion debe estar entre 0.0 y 10.0 |
 
 9. Diagrama relacional 
-![Control Escolar](./img\Relacional\Ejercicio1.jpg)
+![Control Escolar](../img/Relacional/Ejercicio1.jpg)
