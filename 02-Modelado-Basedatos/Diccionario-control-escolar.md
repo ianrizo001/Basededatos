@@ -7,7 +7,7 @@
 | Proyecto  | Control escolar |
 | Version | 1.0|
 | Fecha | Junio 2026|
-| Elaboro | Gerardo Emmanuel Guerrero Cerón |
+| Elaboro | Ian Uriel Rizo Zuñiga |
 | SGBD | SQL Server |
 
 

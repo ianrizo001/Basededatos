@@ -59,4 +59,4 @@ Draw.io / Lucidchart
 MySQL / PostgreSQL / SQL Server
 DBeaver / Azure Data Studio / Workbench
 👤 Autor Ian Uriel Rizo Zúñiga
-[Tu Enlace a LinkedIn o Email]
+ianrizo001@gmail.com 
