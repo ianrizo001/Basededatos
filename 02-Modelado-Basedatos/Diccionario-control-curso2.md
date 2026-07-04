@@ -7,7 +7,7 @@
 | Proyecto | Control de cursos |
 | Version | 1.0 |
 | Fecha | Junio 2026 |
-| Elaboro | Gerardo Emmanuel Guerrero Cerón |
+| Elaboro | Ian Uriel Rizo Zúñiga |
 | SGBD | SQL Server |
 
 
